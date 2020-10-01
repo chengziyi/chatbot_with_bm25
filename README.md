@@ -31,6 +31,8 @@ reply.py: 将回复的数据发给微信公众号
 
 将数据文件命名为'data.csv'
 
+安装requirements.txt里的依赖
+
 申请并配置好微信公众号，参考：https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Getting_Started_Guide.html
 
 python main.py 80 运行程序后在公众号测试效果
