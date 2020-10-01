@@ -38,6 +38,6 @@ reply.py: 将回复的数据发给微信公众号
 
 python main.py 80 运行程序后在公众号测试效果
 
-####最终效果：
+#### 最终效果：
 
-![image](https://github.com/chengziyi/chatbot_on_search/blob/master/images/1.png)
+![image](https://github.com/chengziyi/chatbot_on_search/blob/master/images/2.png)
