@@ -1,4 +1,12 @@
+---
+typora-root-url: images
+typora-copy-images-to: images
+---
+
 # chatbot_on_search
+
+![1](/1.jpg)
+
 本项目是一个基于bm25搜索算法的对话机器人
 
 数据集是建行小龙人对话机器人的部分日常对话数据，没有任何人工标注
