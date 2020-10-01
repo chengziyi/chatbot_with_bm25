@@ -1,0 +1,7 @@
+web.py
+jieba
+pandas
+numpy
+gensim
+tqdm
+sklearn
