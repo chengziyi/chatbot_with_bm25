@@ -1,5 +1,7 @@
 # chatbot_on_search
 
+![image](https://github.com/chengziyi/chatbot_on_search/blob/master/images/1.png)
+
 本项目是一个基于bm25搜索算法的对话机器人
 
 数据集是建行小龙人对话机器人的部分日常对话数据，没有任何人工标注
