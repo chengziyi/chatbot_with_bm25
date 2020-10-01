@@ -1,7 +1,5 @@
 # chatbot_on_search
 
-![image](https://github.com/chengziyi/chatbot_on_search/blob/master/images/1.png)
-
 本项目是一个基于bm25搜索算法的对话机器人
 
 数据集是建行小龙人对话机器人的部分日常对话数据，没有任何人工标注
@@ -39,3 +37,7 @@ reply.py: 将回复的数据发给微信公众号
 申请并配置好微信公众号，参考：https://developers.weixin.qq.com/doc/offiaccount/Getting_Started/Getting_Started_Guide.html
 
 python main.py 80 运行程序后在公众号测试效果
+
+####最终效果：
+
+![image](https://github.com/chengziyi/chatbot_on_search/blob/master/images/1.png)
