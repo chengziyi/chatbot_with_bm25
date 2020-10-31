@@ -1,4 +1,4 @@
-# chatbot_on_search
+# chatbot_with_bm25
 
 本项目是一个基于bm25搜索算法的对话机器人
 
@@ -26,7 +26,7 @@ reply.py: 将回复的数据发给微信公众号
 
 #### 配置&运行:
 
-` git clone git@github.com:chengziyi/chatbot_on_search.git                      `
+` git clone git@github.com:chengziyi/chatbot_with_bm25.git                      `
 
 自己训练或下载一个现成的二进制词向量模型放到代码同一目录下命名为'w2v_model.bin'
 
@@ -40,4 +40,4 @@ python main.py 80 运行程序后在公众号测试效果
 
 #### 最终效果：
 
-![image](https://github.com/chengziyi/chatbot_on_search/blob/master/images/2.png)
+![image](https://github.com/chengziyi/chatbot_with_bm25/blob/master/images/2.png)
